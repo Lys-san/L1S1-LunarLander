@@ -1,0 +1,88 @@
+Bienvenue dans le Lunar Lander, \nLunar-naute 
+Après ces dures années d'entrainement \nau Centre,
+vous êtes enfin prêt pour votre toute \npremière mission sur le terrain.
+N'ayez pas peur, tout va bien se passer. 
+Puisqu'il s'agit d'une première expérience, \nje suis là pour vous guider.
+Que diriez-vous d'un peu d'aide \npour vos premiers pas sur la Lune ?
+Nous pourrions revoir ensemble \nles commmandes de la fusée. 
+[Souhaitez-vous suivre le tutoriel de jeu ?]
+$
+Voilà votre fusée. 
+Elle tombe vers le sol à cause \nde l'attraction lunaire ! 
+Contrôlez sa trajectoire grâce aux \ntouches [haut] [droite] et [gauche] \n du clavier.
+Essayez donc ! 
+Allez allez, je vous regarde ! \n \n[Pressez [haut] [droite] ou [gauche] \n pour déplacer la fusée]
+$
+Pas mal du tout ! 
+Contrôler la fusée demande bien sûr\ndu carburant.
+Gardez un oeil sur votre réserve.
+Vous pouvez la voir en haut à droite de \nl'écran, sur votre tableau de bord.
+Il contient aussi d'autres informations \nimportantes, comme votre altitude \net votre vitesse.
+Je vous rappelle que votre mission \nest de vous poser sur la Lune.
+Attention, un alunissage trop brusque \npeut entraîner un crash !
+Veillez aussi à ce que la fusée \nsoit bien droite.
+Bon, assez parlé; place à l'action. \n \n[Faites alunir la fusée \ngrâce aux touches directionnelles]
+$
+Un alunissage trop brusque \nentraîne un crash ! 
+Encore une fois, vous pouvez le faire ! \n \n[Contrôlez la vitesse de votre \nfusée grâce aux touches directionnelles]
+$
+Félicitations, vous avez effectué votre  \npremier alunissage !
+Un moment clé de votre carrière \nde Lunar-naute ! 
+Vous remportez une médaille secrète \npour ce premier succès.
+Retrouvez votre collection de médailles \nen bas de l'écran de jeu. 
+Devenez un grand Lunar-naute en \ndécouvrant toutes les \nmédailles secrètes ! 
+Bon, il est temps d'aller alunir ailleurs...
+Passez au niveau suivant \nen cliquant sur "Jouer"
+Un peu d'exploration, ça vous tente ? \n \n[Passez au niveau suivant]
+$
+Fantastique ! Bon, voyons voir...
+Le terrain lunaire n'est pas toujours \npropice à l'alunissage !
+Vous ne pouvez atterir que sur \nune zone plate.
+Les zones d'alunissage sont représentées \nen vert. 
+Essayez donc d'atterir sur une de ces zones !
+Allez, comme à l'entrainement ! \n \n[Alunissez sur une zone verte]
+$
+Bien essayé ! Recommencez encore une fois.
+Si vous éprouvez  trop de difficutés, choisissez \nle skin "Pomme" dans les options.
+Respirez lentement, vous pouvez le faire.  \n \n[Posez votre fusée bien droite \n sur une zone verte]
+$
+Dites donc, vous êtes sûr que vous n'avez \njamais piloté, vous ?
+Vous apprenez rudement vite ! \nC'est un vrai potentiel de Lunar-naute \nque je décèle chez vous. 
+Bon, je ne vous serai plus d'une grande aide, \ndésormais. 
+Souvenez-vous de votre entrainement \net tout ira bien.
+Vous pouvez explorer la Lune en \nsélectionnant un niveau dans les options.
+Essayez d'achever tous les niveaux ! \nMais surtout...
+Amusez-vous bien ! ;)
+xxx
+$
+Dans ce cas, bonne partie ! ;)
+xxx
+$
+Lunar-naute
+Vous...
+Vous avez réussi !
+Vous avez complété tous les niveaux,
+Vous avez obtenu tous les succès !
+J'ai toujours su que vous y arriveriez !
+Waouh... \n   \nSniff..
+Pardonnez-moi...
+C'est toujours émouvant de voir à quel point \nses anciennes recrues ont grandies.
+Ah, je me rappelle encore du temps où vous \nvomissiez dans le simulateur...
+Vous avez fait un sacré voyage depuis, \npas vrai ? 
+Vous pouvez vous vanter d'être allé plus loin \nque quasiment n'importe qui sur notre planète, \nlà où seuls quelques héros se sont aventurés.
+D'avoir repousser les frontières de l'impossible.
+Camarade,
+Vous êtes à présent un véritable Lunar-naute.
+J'ai peu de mots pour exprimer la fierté que \nme procure le fait d'avoir été votre instructeur \ndurant toutes ses années. 
+Votre mission touche à sa fin, Lunar-naute.
+Je serai sur Terre à votre arrivée. 
+$
+Nous vous attendions avec impatience.
+La piste du Centre a été apprêtée \npour votre retour. 
+Prenez garde aux habitudes \nque vous avez prises sur la Lune !
+Ici, la pesanteur est bien plus forte. 
+xxx
+$
+Lunar-naute 
+Bienvenue à la maison !
+$

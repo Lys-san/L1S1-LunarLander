@@ -1,0 +1,80 @@
+le  jeu
+
+
+
+Réalisé par:
+
+Lysandre Macke
+Loris Schirar 
+
+
+Grâce aux modules:
+
+Upemtk
+Newton.v2
+créateur_de_terrain
+
+
+
+Direction Artistique: Dark Vador
+
+Costumes: Personne :'(
+
+Effets sonores: ton père
+
+Design et interface graphique: Lyly
+
+Bêta-tests: Hermès Schirar
+
+Création des terrains lunaires: Jade Patin
+
+
+
+Avec
+
+Neil Armstrong
+dans le rôle de Lunar-naute Lysandre 
+
+Buzz Aldrin
+dans le rôle de Lunar-naute Loris
+
+
+
+et la participation (très officielle) de la NASA et de l'ESC
+
+
+
+OST:
+
+Frank Sinatra - "Fly me to the Moon"
+Claude Debussy - "Clair de Lune"
+David Bowie - "Space Oddity"
+Ludwig van Beethoven - "Mondschein Sonate"
+Gustav Holst - "Les planètes"
+Richard Strauss - "Also sprach Zarathoustra"
+Billie Marten - "La Lune"
+
+(en vrai on aurait bien aimé)
+
+
+
+Remerciements:
+
+Isaac Newton 
+pour sa théorie de la gravitation
+
+La Lune
+pour qu'on se pose dessus
+
+Le Père Noël 
+pour le soutien émotionnel
+
+Toi
+pour avoir joué
+
+Nos professeurs 
+pour les cours qu'ils nous ont dispensé
+
+les lamas
+parce que
+

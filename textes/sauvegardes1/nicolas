@@ -1,0 +1,5 @@
+0
+10
+[True, False, False, True, True, True, True, False, False, False, False, True, False, False, False, False, True, True, True, True, True]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0]
+[[37.08, 610.79, 49.08], [38.24, 711.8, 72.05], [21.95, 836.0, 86.16], [32.91, 720.99, 66.43], [85.61, 372.59, 54.38], [101.41, 352.79, 95.97], [54.14, 643.39, 80.22], [26.32, 815.8, 46.82], [75.8, 507.39, 43.53], [59.81, 488.0, 55.17], [3.14, 1000.0, 54.03], [None, None, None], [None, None, None], [None, None, None], [None, None, None]]

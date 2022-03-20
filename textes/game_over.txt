@@ -1,0 +1,43 @@
+Un petit pas pour l’homme… - 0
+Réussissez votre premier alunissage
+Tout en douceur - 1
+Alunissez à moins de 30 m/s
+LES FREINS !! OU SONT LES FREINS ??? - 2
+Crashez-vous à plus de 1000 m/s
+Chute libre - 3
+Crashez-vous sans utiliser les moteurs
+Haute voltige - 4
+Crashez-vous sur la plus haute montagne de la carte
+Pourquoi faire simple… - 5
+Alunissez sur la plateforme la plus éloignée de votre position de départ
+Lunar-Express - 6
+Réussissez un alunissage en moins de 10 s
+Retour sur Terre - 7
+Dépassez 20000 mètres d’altitude
+Pas de petites économies - 8
+Réussissez un alunissage en consommant moins de 100 L decarburant
+Upside down - 9
+Crashez-vous la tête en bas
+Vers l’infini (et l’au-delà) - 10
+Sortez de la fenêtre horizontalement à plus de 250 m/s
+Hors-piste - 11
+Crashez-vous juste à côté d’une plateforme
+Raid de Kessel en 12 parsecs - 12
+Alunissez en parcourant la plus petite distance possible
+Houston, we’ve had a problem  - 13
+Tombez à court de carburant à plus de 500 m d’altitude et réussissez votre alunissage
+Croisière-stellar - 14
+Parcourez plus de 3000 m dans les airs sans sortir de la fenêtre
+Lunar-naute de tous les records - 15
+Alunissez en moins de 20 s sur la plus petite plateforme, à moins de 50 m/s, \n en ayant consommé moins de la moitié de votre carburant et sans rayer les pares-chocs
+Un alunissage digne de ce nom  !
+
+Crash !
+
+Ce n'est pas un endroit pour alunir voyons!
+
+Echec de la mission - **
+Crashez-vous près du Lunar Center
+Notre bonne vieille Terre...
+
+.
